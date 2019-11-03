@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518712756525.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "796921037",
+    "id" : "B9086CB5",
+    "lastKnownWriteTime" : 1518716528,
+    "last_content_update" : 1518716528502,
+    "path" : "~/Desktop/ecoDataScienceClub/2018-02-15/tidyverse_tutorial-master/tutorialCode.R",
+    "project_path" : "tutorialCode.R",
+    "properties" : {
+        "cursorPosition" : "66,23",
+        "scrollLine" : "49",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

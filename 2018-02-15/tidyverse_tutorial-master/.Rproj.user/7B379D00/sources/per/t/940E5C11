@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518716192887.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "940E5C11",
+    "lastKnownWriteTime" : 4294967296,
+    "last_content_update" : 1518716192887,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "95DEFF74",
+        "caption" : "fakeGDP",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=fakeGDP&cache_key=95DEFF74",
+        "displayedObservations" : 10,
+        "environment" : "",
+        "object" : "fakeGDP",
+        "preview" : 0,
+        "totalObservations" : 10,
+        "variables" : 2
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

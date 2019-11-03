@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1518716316129.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AB235FD",
+    "lastKnownWriteTime" : 3256718451316699186,
+    "last_content_update" : 1518716316129,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F8EBC5C5",
+        "caption" : "joindat",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=joindat&cache_key=F8EBC5C5",
+        "displayedObservations" : 260,
+        "environment" : "",
+        "object" : "joindat",
+        "preview" : 0,
+        "totalObservations" : 260,
+        "variables" : 4
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
